@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <style name="MainTheme">
+    <item name="android:windowSplashScreenBackground">#ffffff</item>
+    <item name="android:windowSplashScreenAnimationDuration">1000</item>
+  </style>
+  <style name="Maui.SplashTheme" parent="MainTheme">
+    <item name="android:windowSplashScreenBackground">@color/colorPrimaryDark</item>
+    <item name="android:windowLightStatusBar">true</item>
+  </style>
+</resources>
