@@ -20,7 +20,7 @@ namespace AndroidCarAssistant.Platforms.Android.Screens
             var carAndroidIcon = new CarIcon.Builder(carIconCompat).Build();
 
             var rowMessageItem = new Row.Builder()
-                .SetTitle("Message Template")
+                .SetTitle("AI Chat")
                 .SetImage(carAndroidIcon)
                 .SetOnClickListener(new NavigationOnClickListener(CarContext, ScreenManager, Enums.AAScreenEnums.RowMessageItem))
                 .SetBrowsable(true)

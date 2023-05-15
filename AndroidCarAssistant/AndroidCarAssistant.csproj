@@ -49,6 +49,7 @@
     <MauiImage Include="Images\message_round.svg" />
     <MauiImage Include="Images\panel.svg" />
     <MauiImage Include="Images\grid.svg" />
+    <MauiImage Include="Images\chat_icon.svg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -67,6 +68,7 @@
     <None Remove="Images\message_round.svg" />
     <None Remove="Images\panel.svg" />
     <None Remove="Images\grid.svg" />
+    <None Remove="Images\chat_icon.svg" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Platforms\Android\Service\" />

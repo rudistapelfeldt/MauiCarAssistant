@@ -1,5 +1,10 @@
 ﻿<Properties StartupConfiguration="{DB2D3EDA-66F0-44EE-8798-000DF8DD3381}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AndroidCarAssistant/Platforms/Android/Screens/AAGridScreen.cs">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AndroidCarAssistant/.gitignore">
     <Files>
       <File FileName="AndroidCarAssistant/Platforms/Android/Resources/values/styles.xml" />
       <File FileName="AndroidCarAssistant/Platforms/Android/Resources/values/colors.xml" />
@@ -9,16 +14,17 @@
       <File FileName="AndroidCarAssistant/MauiProgram.cs" />
       <File FileName="AndroidCarAssistant/Platforms/Android/Service/AACarService.cs" />
       <File FileName="AndroidCarAssistant/Platforms/Android/Session/AASession.cs" />
-      <File FileName="AndroidCarAssistant/Platforms/Android/Screens/AAMenuScreen.cs" />
+      <File FileName="AndroidCarAssistant/Platforms/Android/Screens/AAMenuScreen.cs" Line="1" Column="1" />
       <File FileName="AndroidCarAssistant/AndroidCarAssistant.csproj" />
       <File FileName="AndroidCarAssistant/Platforms/Android/AndroidManifest.xml" />
       <File FileName="AndroidCarAssistant/Platforms/Android/Resources/xml/automotive_app_desc.xml" />
-      <File FileName="AndroidCarAssistant/Platforms/Android/OnClickListeners/NavigationOnClickListener.cs" />
+      <File FileName="AndroidCarAssistant/Platforms/Android/OnClickListeners/NavigationOnClickListener.cs" Line="34" Column="53" />
       <File FileName="AndroidCarAssistant/Platforms/Android/Enums/AAScreenEnums.cs" />
-      <File FileName="AndroidCarAssistant/Platforms/Android/Screens/AAMessageScreen.cs" Line="39" Column="46" />
+      <File FileName="AndroidCarAssistant/Platforms/Android/Screens/AAMessageScreen.cs" Line="38" Column="54" />
       <File FileName="AndroidCarAssistant/Platforms/Android/OnClickListeners/ActionOnClickListener.cs" />
-      <File FileName="AndroidCarAssistant/Platforms/Android/Screens/AAPaneScreen.cs" Line="18" Column="81" />
-      <File FileName="AndroidCarAssistant/Platforms/Android/Screens/AAGridScreen.cs" Line="19" Column="26" />
+      <File FileName="AndroidCarAssistant/Platforms/Android/Screens/AAPaneScreen.cs" Line="18" Column="1" />
+      <File FileName="AndroidCarAssistant/Platforms/Android/Screens/AAGridScreen.cs" Line="20" Column="1" />
+      <File FileName="AndroidCarAssistant/.gitignore" Line="41" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -33,27 +39,17 @@
                   <Node name="Resources" expanded="True">
                     <Node name="values" expanded="True" />
                   </Node>
-                  <Node name="Screens" expanded="True">
-                    <Node name="AAGridScreen.cs" selected="True" />
-                  </Node>
+                  <Node name="Screens" expanded="True" />
                 </Node>
               </Node>
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.AndroidCarAssistant PreferredExecutionTarget="Android.R8FAY9D6SS7DCQAA" Xamarin.HotReload.EntryPointException.AndroidCarAssistant.HideInfoBar="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.46" />
+  <MonoDevelop.Ide.ItemProperties.AndroidCarAssistant PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" Xamarin.HotReload.EntryPointException.AndroidCarAssistant.HideInfoBar="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.R8FAY9D6SS7DCQAA" />
 </Properties>
